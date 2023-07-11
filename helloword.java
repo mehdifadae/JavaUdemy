@@ -1,4 +1,4 @@
-package JavaProjeckten.UdemyJava.JavaUdemy;
+package JavaProjeckten.javaudemy.JavaUdemy;
 
 public class helloword {
 
